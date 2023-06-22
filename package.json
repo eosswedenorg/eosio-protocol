@@ -9,16 +9,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^12.12.14",
-    "@types/text-encoding": "0.0.35",
+    "@types/node": "^18.16.1",
+    "@types/text-encoding": "0.0.36",
     "awesome-typescript-loader": "^5.2.1",
-    "deps": "^0.1.2",
-    "eosjs": "^20.0.0",
+    "deps": "^1.0.0",
+    "eosjs": "^22.1.0",
     "net": "^1.0.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.6",
     "sha256": "^0.2.0",
-    "source-map-loader": "^0.2.4",
+    "source-map-loader": "^4.0.1",
     "stream": "0.0.2",
-    "yargs": "^15.0.2"
+    "yargs": "^17.7.2"
   }
 }
