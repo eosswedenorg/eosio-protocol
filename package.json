@@ -19,6 +19,7 @@
     "source-map-loader": "^4.0.1",
     "stream": "0.0.2",
     "ts-loader": "^8.4.0",
+    "typescript": "^4.8",
     "yargs": "^17.7.2"
   }
 }
